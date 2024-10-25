@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+header{
+    background-image: url(img\ 2024.jpg);
+    height: 300px;
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+
+.nama {
+    padding-top: 250px;
+    padding-left:  90px; ;
+}
